@@ -33,7 +33,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   </marquee><h1> Thankyou, Happy Learning </h1>
+   <marquee behavior="scroll" direction="left"><h1> Thankyou, Happy Learning </h1></marquee>
 
   
 </form>
